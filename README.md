@@ -14,3 +14,6 @@ Logical Operation : AND ,OR,NOR
  How I verified it:
 Wrote a testbench (alu_tb.v) that applies various test cases to each operation.
 Used waveforms to visually confirm that each function works correctly.
+
+ Output
+ <img width="1906" height="423" alt="Image" src="https://github.com/user-attachments/assets/b3174ecd-fcc6-4a45-a543-8be7f6acc0a6" />
